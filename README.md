@@ -1,0 +1,2 @@
+# OpenXInternTask
+Wariant 1
